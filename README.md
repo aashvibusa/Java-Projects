@@ -1,2 +1,2 @@
 # Java-Projects
-Personal and School Java Projects
+Personal and school java projects
